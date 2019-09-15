@@ -1,0 +1,12 @@
+{
+    "name": "qtum-opreturn",
+    "version": "1.0.0",
+    "description": "A demo for storing data on Qtum using OP_RETURN",
+    "author": "Zhen Li",
+    "dependencies": {
+        "argv": "0.0.2",
+        "jsonfile": "^5.0.0",
+        "qtumjs": "^1.9.1",
+        "validator": "^11.1.0"
+    }
+}
