@@ -7,6 +7,6 @@
         "argv": "0.0.2",
         "jsonfile": "^5.0.0",
         "qtumjs": "^1.9.1",
-        "validator": "^11.1.0"
+        "validator": "^13.7.0"
     }
 }
